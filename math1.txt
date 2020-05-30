@@ -7,6 +7,12 @@ print(Q)
 Y=7%2
 print(Y)
 
+Z=2*5
+print(Z)
+
+A=2**10
+print(A)
+
 x=7+4
 print(x)
 
