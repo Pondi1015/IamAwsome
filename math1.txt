@@ -1,0 +1,26 @@
+P=7/2
+print(P)
+
+Q=7//2
+print(Q)
+
+Y=7%2
+print(Y)
+
+x=7+4
+print(x)
+
+x+=1
+print(x)
+ 
+ 
+ 
+s="Iam\"Awsome"
+print(s)
+ 
+#s="I""am""Awsome"
+#s="I" "am" "Awsome"
+#s="I"+"am"+"Awsome"
+ 
+s="I"+"am"+"Awsome"
+print(s)
